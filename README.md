@@ -1,4 +1,4 @@
-# Hi
+
 
 I'm a first-year Computer Science student at VIT Bhopal University.
 
